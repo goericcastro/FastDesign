@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PLUGIN STANDARD</Name>
+		<!--PUT NAME OF MENU PLUGGIN-->
+		<Assembly>Program.dll</Assembly>
+		<!--CREATE WITH THE SAME NAME OF THE PROJECT-->
+		<FullClassName>FastDesign.Program</FullClassName>
+		<ClientId>
+			51AAE418-B473-4294-A7BC-222B6A3477C7
+		</ClientId>
+		<!--CRATE NEW GUID-->
+		<VendorId>Eric Castro</VendorId>
+		<VendorDescription>@oericcastro</VendorDescription>
+	</AddIn>
+</RevitAddIns>
